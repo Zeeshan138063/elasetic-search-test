@@ -14,7 +14,7 @@ pycparser==2.20
 pycrypto==2.6.1
 
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.1
 six==1.15.0
 toml==0.10.1
 typed-ast==1.4.1
