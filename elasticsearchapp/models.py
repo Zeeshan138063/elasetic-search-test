@@ -25,5 +25,6 @@ class BlogPost(models.Model):
                             title=self.title,
                             text=self.text
                             )
-        obj.save()
+        # obj.save()
         return obj.to_dict(include_meta=True)
+
